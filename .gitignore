@@ -31,3 +31,6 @@ src/.tern-port
 build/timezone-js
 ci
 playground
+/_ReSharper.Caches/**
+/.vs/slnx.sqlite
+VSWorkspaceState.json
